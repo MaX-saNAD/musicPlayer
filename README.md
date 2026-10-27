@@ -2,7 +2,7 @@
 
 A browser music player with playlists, built with React. It remembers the last track and position, and lets you group songs into playlists that survive a reload.
 
-**[Live demo](LIVE_DEMO_URL)** · Project type: logic-led (app logic written by hand, visual design AI-assisted)
+**[Live demo](https://sanad-player.netlify.app/)** · Project type: logic-led (app logic written by hand, visual design AI-assisted)
 
 ![Sanad Player on desktop](docs/screenshot-desktop.png)
 
@@ -16,8 +16,8 @@ A browser music player with playlists, built with React. It remembers the last t
 - Keyboard accessible: native buttons, labelled controls, visible focus
 - Responsive from 320px up
 
-| Playlists | Mobile |
-| --- | --- |
+| Playlists                                        | Mobile                                       |
+| ------------------------------------------------ | -------------------------------------------- |
 | ![Playlists page](docs/screenshot-playlists.png) | ![Mobile layout](docs/screenshot-mobile.png) |
 
 ## Tech stack
@@ -88,6 +88,7 @@ src/
 ## Credits
 
 - Font: [Bricolage Grotesque](https://fonts.google.com/specimen/Bricolage+Grotesque) (SIL Open Font License)
+
 ## License
 
 [MIT](LICENSE)
