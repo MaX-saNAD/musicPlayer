@@ -4,7 +4,8 @@ import MusicPlayer from './components/MusicPlayer'
 import Playlists from './components/Playlists'
 import { MusicProvider } from './contexts/MusicProvider'
 import Navbar from './components/Navbar'
-import AllSongs from './components/Allsongs'
+import AllSongs from './components/AllSongs'
+
 
 function App() {
   return (

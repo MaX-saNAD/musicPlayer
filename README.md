@@ -88,8 +88,6 @@ src/
 ## Credits
 
 - Font: [Bricolage Grotesque](https://fonts.google.com/specimen/Bricolage+Grotesque) (SIL Open Font License)
-- Tracks: add the artist and license for each track you ship here
-
 ## License
 
 [MIT](LICENSE)
